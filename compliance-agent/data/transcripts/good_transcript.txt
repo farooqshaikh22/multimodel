@@ -1,0 +1,12 @@
+Caller: Good morning sir. My name is James Wilson from ABC Bank. May I speak with Mr. Robert Smith?
+Customer: Yes, this is Robert Smith speaking.
+Caller: Thank you Mr. Smith. To ensure I'm speaking with the correct person, may I confirm the last 4 digits of your IC number please?
+Customer: Yes, it's 4321.
+Caller: Thank you for confirming. I need to inform you that this call may be recorded for quality and compliance purposes. I'm calling regarding your loan payment for this month.
+Customer: Yes, I understand. I was expecting your call.
+Caller: I see that your payment was due on the 15th. Would you be able to make the payment this week?
+Customer: Yes, I can make the full payment by Friday.
+Caller: That's excellent, Mr. Smith. I'll note down that you'll make the payment by Friday. Is there anything else I can help you with today?
+Customer: No, that's all. Thank you for your help.
+Caller: You're welcome, Mr. Smith. Thank you for your time and have a great day.
+Customer: You too, goodbye. 

@@ -1,0 +1,11 @@
+Caller: Good afternoon, sir. This is John from ABC Bank. May I speak with Mr. Smith?
+Customer: Yes, speaking.
+Caller: To ensure I'm speaking with the correct person, could you please confirm the last 4 digits of your IC number?
+Customer: Yes, it's 4321.
+Caller: Thank you for confirming. This call may be recorded for quality and compliance purposes. I'm calling regarding your outstanding loan payment.
+Customer: Yes, I understand. I've been having some financial difficulties lately.
+Caller: I understand your situation. Would you be able to make a partial payment this month?
+Customer: Yes, I can pay half of the amount by next week.
+Caller: Thank you for your commitment. I'll note that down. Is there anything else I can help you with?
+Customer: No, that's all. Thank you.
+Caller: Thank you for your time, Mr. Smith. Have a good day. 

@@ -1,0 +1,38 @@
+greeting:
+  required_elements:
+    - introduction
+    - bank_name
+    - customer_name
+  patterns:
+    - "Good {morning|afternoon|evening} {Sir|Miss|Mdm}"
+    - "My name is {caller_name}"
+    - "calling from {bank_name}"
+
+verification:
+  required_elements:
+    - identity_confirmation
+    - ic_or_dob
+  patterns:
+    - "may I confirm your last 4 digits of your IC number"
+    - "may I confirm your Date of Birth"
+
+disclosure:
+  required_elements:
+    - recording_disclosure
+  patterns:
+    - "this call may be recorded for quality and compliance purposes"
+
+responses:
+  script_1:
+    condition: "wrong_number"
+    response: "I apologize for the inconvenience. Have a good day."
+    
+  script_3:
+    condition: "callback_request"
+    response: "When would be a better time to reach you?"
+    
+  script_4:
+    condition: "scam_accusation"
+    response: "I understand your concern. Let me provide you our official bank contact..."
+
+  # Add more script conditions and responses 

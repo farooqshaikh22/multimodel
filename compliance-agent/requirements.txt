@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-groq
+pyyaml
+chromadb
+python-dotenv
+typing-extensions
+colorama
+edge-tts
+sounddevice
+soundfile
+numpy
+openai-whisper
+torch

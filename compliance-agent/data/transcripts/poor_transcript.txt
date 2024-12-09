@@ -1,0 +1,12 @@
+Caller: Hello, Smith there?
+Customer: Yeah, speaking.
+Caller: I'm calling about your bank loan.
+Customer: Who is this?
+Caller: From ABC Bank, you have pending payment.
+Customer: Oh, about that...
+Caller: When can you pay? It's already late.
+Customer: I'm busy now, call later.
+Caller: But we need to know when you'll pay.
+Customer: I said call later!
+Caller: Fine, I'll call back.
+Customer: *hangs up* 

@@ -1,0 +1,21 @@
+# LLM Configuration
+groq:
+  api_key: "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"
+  model_name: "mixtral-8x7b-32768"
+
+# Compliance Thresholds
+compliance_thresholds:
+  greeting: 0.8
+  verification: 0.9
+  disclosure: 0.95
+  resolution: 0.85
+
+# Vector Store Settings
+vector_store:
+  similarity_threshold: 0.85
+  top_k: 3
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  file_path: "./logs/compliance_checker.log" 
